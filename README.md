@@ -1,16 +1,16 @@
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsplima&show_icons=true&theme=dark" />
+
 ### Hi there 👋
 
-<!--
-**rafaelsplima/rafaelsplima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technical leader in software engineering.
 
-Here are some ideas to get you started:
+Here you can find some of my studies on technology, feel free to use the projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Follow me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelsplima)](https://www.linkedin.com/in/rafaelsplima)
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/rafaelsplima/rafaelsplima/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
